@@ -1,5 +1,5 @@
 // I'm pretty sure that it's possible to convert this function to O(n),
-// but for simplicity and speed I left it as before :)
+// but for simplicity and speed I left it as below :)
 
 // Helper
 function commonPrefixLength(suffix, original) {
