@@ -1,3 +1,6 @@
+// I'm pretty sure that it's possible to convert this function to O(n),
+// but for simplicity and speed I left it as before :)
+
 // Helper
 function commonPrefixLength(suffix, original) {
   let length = 0;
