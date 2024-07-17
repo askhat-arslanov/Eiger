@@ -1,0 +1,10 @@
+- no “HenriSai” purple thing
+- DeOptima instead of DevOptima
+- header menu has 18px instead of 16px
+- this text “Empower groups to boost innovation with efficient development, automated operations, and stable scaling.” is not right
+- no hover effect on “get started” button
+- no hover effect on “free trial” button
+- loading state on email input mis-aligned
+- ready (check icon) state on email input mis-aligned
+- email input was not cleared after submit
+- a lot of using “em” instead of “%”
